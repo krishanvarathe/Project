@@ -102,11 +102,12 @@ section::before{
     transform: translate(100px);
 }
 #cp{
-    mix-blend-mode: solid;
+    mix-blend-mode: normal;
     border-radius: 200px;
     height: 100px;
     width: 100px;
     z-index: 9;
+    transform: translate(100px);
 }
 #c{
     mix-blend-mode: solid;
