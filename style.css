@@ -87,7 +87,7 @@ section::before{
 
 #html
 {
-    mix-blend-mode: lighten;
+    mix-blend-mode:normal;
     border-radius: 100px;
     height: 100px;
     width: 100px;
@@ -95,14 +95,15 @@ section::before{
     
 }
 #css{
-    mix-blend-mode: solid;
+    mix-blend-mode:normal;
     border-radius: 200px;
     height: 100px;
     width: 100px;
     transform: translate(100px);
 }
 #cp{
-    mix-blend-mode: normal;
+    mix-blend-mode:normal;
+    text-decoration: none;
     border-radius: 200px;
     height: 100px;
     width: 100px;
@@ -110,7 +111,7 @@ section::before{
     transform: translate(100px);
 }
 #c{
-    mix-blend-mode: solid;
+    mix-blend-mode: normal;
     border-radius: 200px;
     height: 100px;
     width: 100px;
@@ -119,7 +120,7 @@ section::before{
 }
 #java{
     
-    mix-blend-mode: solid;
+    mix-blend-mode: normal;
     border-radius: 200px;
     height: 100px;
     width: 100px;
