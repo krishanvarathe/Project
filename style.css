@@ -87,7 +87,7 @@ section::before{
 
 #html
 {
-    mix-blend-mode:normal;
+    mix-blend-mode:absolute;
     border-radius: 100px;
     height: 100px;
     width: 100px;
